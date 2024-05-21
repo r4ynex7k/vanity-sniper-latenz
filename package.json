@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "extract-json-from-string": "^1.0.1",
+    "latenz": "^0.2.4",
+    "ws": "^8.14.2"
+  }
+}
